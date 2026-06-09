@@ -6,6 +6,7 @@
 - http://informat2.pl/11 (Status: 200) [Size: 931]
 - http://informat2.pl/3 (Status: 200) [Size: 9533]
 - http://informat2.pl/4 (Status: 200) [Size: 97]
+- http://informat2.pl/32/ 
 - http://informat2.pl/.htaccess (Status: 403) [Size: 277]
 - http://informat2.pl/c (Status: 200) [Size: 915]
 - http://informat2.pl/.htpasswd (Status: 403) [Size: 277]
